@@ -4,7 +4,7 @@
 
 <img align="left" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&usqp=CAU">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrikant215&label=Profile%20views&color=0e75b6&style=flat" alt="shrikant215" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=shrikant215&label=Profile%20views&color=0e75b6&style=flat" alt="shrikant215" /> </p>
 
 - 📫 How to reach me **jakanurshrikant@gmail.com**
 
