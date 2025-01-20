@@ -33,9 +33,6 @@
  ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/Java-F7AF1E?style=for-the-badge&logo=java&logoColor=black)
-![](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -47,30 +44,18 @@
 <br>
 <!--  <a > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaskhan28&layout=compact&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=000&text_color=000"  align="center" height="165" /></a> -->
  <p align="center" >
- <a href="#"><img alt="Anas Khan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaskhan28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a></p>
+ <a href="#"><img alt="Shrikant Jakanur's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrikant215&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a></p>
 
-## 📊 My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="45px">
-
-   
-   <p align="center" >
- <a href="#"><img alt="Anas Khan's Github Stats"   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anaskhan28&theme=react&langs_count=5&layout=compact" /></p>
-  
-  <p align="center" >
-  <a href="#"><img  alt="Anas Khan's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=anaskhan28&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /></p>
-    
-<p align="center" >
-  <a href="#">
-  <a href="https://github.com/anaskhan28/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anaskhan28&theme=react&langs_count=5&layout=compact" alt="Anas Khan's github stats" align = "center" /></a></p>
 
 
 <br />
 
 <br>
-<a><img src="https://img.shields.io/github/followers/anaskhan28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a><img src="https://img.shields.io/github/followers/shrikant215?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 
-![Visitor Count](https://komarev.com/ghpvc/?username=anaskhan28&color=orange&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=shrikant215&color=orange&style=flat-square)
 
   ### <h1><p align ="center"> Have a great day <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px">
 
